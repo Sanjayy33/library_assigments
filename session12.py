@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
@@ -154,3 +155,6 @@ def make_panel(style, filename):
     fig.savefig(filename, dpi=150, bbox_inches="tight")
     plt.show()
     plt.close(fig)
+=======
+import pandas as pd
+>>>>>>> e5cb423bdb340c361f1b4fbc5045eb090a0107f0
